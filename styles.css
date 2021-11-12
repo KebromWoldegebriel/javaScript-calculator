@@ -1,0 +1,42 @@
+.container {
+  margin-top: 10%;
+  min-width: 800px;
+  
+}
+
+.first {
+  height: 30%;
+  border: 1px solid black;
+}
+
+
+
+.equal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.group-1 {
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+.group-2 {
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  
+}
+  
+.group-3 {
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  
+}
+
+.group-4 {
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  
+}
